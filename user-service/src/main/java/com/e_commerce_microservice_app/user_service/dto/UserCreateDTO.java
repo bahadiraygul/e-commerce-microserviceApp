@@ -16,6 +16,7 @@ import javax.validation.constraints.*;
 @Builder
 public class UserCreateDTO {
 
+    @TCNoValid
     @JsonProperty("tc_no")
     private String tcNo;
 
