@@ -1,6 +1,7 @@
 package com.e_commerce_microservice_app.user_service.dto;
 
 
+import com.e_commerce_microservice_app.user_service.validation.TCNoValid;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
