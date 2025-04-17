@@ -1,5 +1,6 @@
 package com.e_commerce_microservice_app.user_service.entity;
 
+import com.e_commerce_microservice_app.user_service.enums.Role;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Builder;

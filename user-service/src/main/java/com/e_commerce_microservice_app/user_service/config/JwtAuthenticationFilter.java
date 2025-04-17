@@ -1,5 +1,6 @@
 package com.e_commerce_microservice_app.user_service.config;
 
+import com.e_commerce_microservice_app.user_service.services.JwtService;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;
